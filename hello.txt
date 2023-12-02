@@ -1,0 +1,1 @@
+The Canteen Management System is a comprehensive software solution developed using C#.NET, designed to automate canteen operations, streamline menu items, manage orders, handle payments, and maintain inventory efficiently. The system aims to enhance the overall canteen experience for both users and administrators.
