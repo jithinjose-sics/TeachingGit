@@ -1,3 +1,7 @@
 .Net Technologies
 ----------------------
 Develop softwares 
+
+C#
+F#
+Asp.net
